@@ -1,6 +1,6 @@
 # JSON Web Token!
 
-Hi! This repository contains presentation file about  **JWT** for **Web programming course** @ Amirkabir University of Technology, and [Mr. Parham Alvani](https://github.com/1995parham) as the Lecturer.
+Hi! This repository contains presentation file about  **JWT** for **Web programming course** @ Amirkabir University of Technology, and [Dr. Parham Alvani](https://github.com/1995parham) as the Lecturer.
 
 
 
