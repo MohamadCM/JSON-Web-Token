@@ -1,13 +1,13 @@
 # JSON Web Token!
 
-Hi! This repository contains presentation file about  **JWT** for **Web programming course** @ Amirkabir University of Technology, and [Dr. Parham Alvani](https://github.com/1995parham) as the Lecturer.
+Hi! This repository contains presentation files about  **JWT** for **Web programming course** @ the Amirkabir University of Technology, and [Dr. Parham Alvani](https://github.com/1995parham) as the Lecturer.
 
 
 
 # Files
 
-There is a slideshow presentation file named "JWT.pptx" that contains the presentation material, There's also a folder name "jwt-example" that contains a client usage example of JWT (and local storage as well). 
+There is a slideshow presentation file named "JWT.pptx" that contains the presentation material, and There's also a folder named "jwt-example" that includes a client usage example of JWT (and local storage as well). 
 
 ### Running the example code
 
-You should have node and npm installed for running the code. simply go to jwt-example folder, run npm install, the run npm start (or bundle.sh). After that, you can simply open index.html and see what's going on!
+You should have node and npm installed for running the code. Go to the jwt-example folder, run npm install, then run npm start (or bundle.sh). After that, you can merely open index.html and see what's going on!
